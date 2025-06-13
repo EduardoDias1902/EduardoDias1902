@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**EduardoDias1902/EduardoDias1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Olá! Eu sou o Eduardo Dias
 
-Here are some ideas to get you started:
+- 🎓 Estudante do SENAI do curso CTW MIDS77
+- 💻 Gosto de trabalhar com Java,HTML e Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Estatísticas do GitHub -->
+<div>
+  <a href="https://github.com/EduardoDias1902">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDias1902&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoDias1902&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
