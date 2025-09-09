@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">🕷️🎸 Bem-vindo ao universo Rock’n’Code do <b>EduardoDias1902</b> 🕸️</h1>
+<h1 align="center">🕷️🎸 Bem-vindo ao Aranhaverso do <b>EduardoDias1902</b> 🕸️</h1>
 
 <p align="center">
   <i>"Entre riffs e linhas de código, eu balanço nas teias do desenvolvimento!"</i>
