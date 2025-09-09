@@ -23,7 +23,10 @@
 ## 🕸️ Skills de Programação
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,arduino,mysql,git,github,python,c,cpp,nodejs,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,arduino,mysql,git,github"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,windows,cpp,figma,vscode,linux,eclipse,docker"/>
 </p>
 
 ---
@@ -51,7 +54,7 @@
 ## 🕷️ Projetos em destaque
 - 🔌 **IoT e Automação** com ESP32 e Arduino.  
 - 🌐 **Sites e aplicações web** em HTML, CSS, JavaScript.  
-- ☕ **Sistemas em Java** organizados em MVC.  
+- ☕ **Sistemas em Java** utilizando o sistema CRUD.  
 - 🎶 Projetos que unem **tecnologia + música**.  
 
 ---
@@ -61,10 +64,11 @@
   <a href="https://github.com/EduardoDias1902">
     <img src="https://img.shields.io/badge/GitHub-EduardoDias1902-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:eduardo_d_maia@estudante.sesisenai.org.br">
+    <img src="https://img.shields.io/badge/Email-eduardo_d_maia@estudante.sesisenai.org.br-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
 ---
 
 <!-- Gif final Spider-Punk -->
