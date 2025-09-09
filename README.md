@@ -1,6 +1,6 @@
 <!-- Banner Spider-Punk -->
 <p align="center">
-  <img src="gifs/miranha.gif" width="280"/>
+  <img src="cec2859ce4acb3d5234ad69c1a4e67e1.jpg" width="600"/>
 </p>
 
 
@@ -65,12 +65,11 @@
     <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
 ---
 
 <!-- Gif final Spider-Punk -->
 <p align="center">
-  <img src="gifs/miranha.gif" width="280"/>
+  <img src="gifs/miranha.gif" width="500"/>
 </p>
 
 <p align="center">
