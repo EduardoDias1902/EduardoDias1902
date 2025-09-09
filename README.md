@@ -69,7 +69,7 @@
 
 <!-- Gif final Spider-Punk -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Kcnl2z2zQ77Py/giphy.gif" width="280"/>
+  <img src="gifs/miranha.gif" width="280"/>
 </p>
 
 <p align="center">
