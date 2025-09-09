@@ -34,7 +34,7 @@
 - ⚡ Energia do rock me inspira a **criar projetos intensos e cheios de criatividade**.  
 
 <p align="center">
-  <img src="gifs/punk.gif" width="300"/>
+  <img src="gifs/Punk.gif" width="651"/>
 </p>
 
 ---
