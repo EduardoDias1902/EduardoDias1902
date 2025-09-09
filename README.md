@@ -34,7 +34,7 @@
 - ⚡ Energia do rock me inspira a **criar projetos intensos e cheios de criatividade**.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300"/>
+  <img src="gifs/punk.gif" width="300"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 <!-- Gif final Spider-Punk -->
 <p align="center">
-  <img src="gifs/miranha.gif" width="500"/>
+  <img src="gifs/scarlet.gif" width="350"/>
 </p>
 
 <p align="center">
