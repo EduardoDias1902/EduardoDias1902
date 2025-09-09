@@ -1,6 +1,6 @@
 <!-- Banner Spider-Punk -->
 <p align="center">
-  <img src="" width="300"/>
+  <img src="cec2859ce4acb3d5234ad69c1a4e67e1.jpg" width="600"/>
 </p>
 
 <h1 align="center">🕷️🎸 Bem-vindo ao universo Rock’n’Code do <b>EduardoDias1902</b> 🕸️</h1>
