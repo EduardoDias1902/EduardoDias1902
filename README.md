@@ -15,7 +15,7 @@
 ## 🕷️ Sobre mim
 - 👨‍💻 Programador entre linhas de **HTML, Java e JavaScript**.  
 - ⚡ Explorador do mundo físico com **Arduino e ESP32**.  
-- 🎶 Rockeiro de coração – fã de **Green Day,Metallica,System of a Down, Iron Maiden, Slipknot e muito mais**.  
+- 🎶 Rockeiro de coração – fã de **Green Day,Metallica,System of a Down,Slipknot e muito mais**.  
 - 🕸️ Inspiração: **Spider-Man,Spider-Punk e Spider-Man Scarlet**.  
 
 ---
