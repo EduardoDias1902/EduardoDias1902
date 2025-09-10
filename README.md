@@ -77,5 +77,5 @@
 </p>
 
 <p align="center">
-  <b>“Sou apenas um amigo da vizinhança... mas com guitarra e muito código!” 🕸️🎸</b>
+  <b>“Sou apenas um amigo da vizinhança... que programa!” 🕸️</b>
 </p>
