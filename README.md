@@ -16,7 +16,6 @@
 - 👨‍💻 Programador entre linhas de **HTML, Java e JavaScript**.  
 - ⚡ Explorador do mundo físico com **Arduino e ESP32**.  
 - 🎶 Rockeiro de coração – fã de **Green Day, Metallica, System of a Down, Slipknot e muito mais**.  
-- 🕸️ Inspiração: **Spider-Man,Spider-Punk e Spider-Man Scarlet**.  
 
 ---
 
@@ -30,12 +29,29 @@
 </p>
 
 ---
+## ⏰ Período da manhã
+
+- ✏️ Estudo na escola Sesi Senai,com curso técnico em S.T.E.A.M (7:15 até 12:35)
+- 📖 Matérias estudadas(técnicas):
+  * Biohackeria
+  * Desenvolvimento de Games e Apps
+  * Fabricação Digital & Modelamento Geométrico
+  * Mídias Digitais
+  * Projetos Livres
+  * Robótica
+
+
+
+
+---
+
 
 ## 🤘 Skills Musicais & Vibe Rock
-- 🎸 Sempre com um **riff de guitarra** na cabeça.  
+- 🎸 Sempre com um **riff de guitarra** na cabeça.
+- 🔧 Aprimorando habilidades no **violão**  
 - 🎧 Curto rock clássico, metal e punk.  
 - ⚡ Energia do rock me inspira a **criar projetos intensos e cheios de criatividade**.  
-
+<br>
 <p align="center">
   <img src="gifs/Punk.gif" width="651"/>
 </p>
