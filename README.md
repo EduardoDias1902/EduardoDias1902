@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_invencivel.jpg" width="600"/>
+  <img src="invincible-mark-comic-panel-ae9h8yr1vt60il7d.jpg" width="600"/>
 </p>
 
 <h1 align="center">💥🦸‍♂️ Bem-vindo ao Universo do <b>EduardoDias1902</b> 🌌</h1>
