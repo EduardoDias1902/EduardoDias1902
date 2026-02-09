@@ -1,4 +1,3 @@
-<!-- Banner Invencível -->
 <p align="center">
   <img src="banner_invencivel.jpg" width="600"/>
 </p>
@@ -37,20 +36,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,windows,cpp,figma,vscode,linux,eclipse,docker"/>
 </p>
-
----
-
-## ⏰ Rotina de Treinamento (Período da Manhã)
-
-
-- 🏫 Estudante da **Escola Sesi Senai**, no curso técnico em **S.T.E.A.M** (7:15 até 12:35)  
-- 📘 Matérias de desenvolvimento e evolução:
-  * Biohackeria  
-  * Desenvolvimento de Games e Apps  
-  * Fabricação Digital & Modelamento Geométrico  
-  * Mídias Digitais  
-  * Projetos Livres  
-  * Robótica  
 
 <br>
 
