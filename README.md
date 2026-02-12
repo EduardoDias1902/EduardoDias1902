@@ -16,7 +16,7 @@
 - 👨‍💻 Jovem desenvolvedor em treinamento, sempre tentando **ir além dos limites humanos** com **HTML, Java e JavaScript**.  
 - 🚀 Explorador de novas fronteiras tecnológicas com **Arduino e ESP32**.  
 - 🎧 Alimentado por **Green Day, Metallica, System of a Down e Slipknot**, porque até heróis precisam de uma trilha sonora épica.  
-- 💫 Acredito que o verdadeiro poder está em **criar, aprender e nunca desistir — mesmo quando o mundo te testa**.  
+
 
 <br>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## ⚙️ Habilidades Super-Humanas (Skills de Programação)
+## ⚙️ Skills de Programação
 
 
 <p align="center">
@@ -48,12 +48,8 @@
 ## 🎧 Força, Foco e Rock
 
 
-- 🎸 A energia vem dos **riffs poderosos**.  
-- 🧩 A disciplina vem do **violão e da persistência**.  
 - 🤘 O espírito vem do **rock e da superação**.  
 - 💥 O código é minha forma de **lutar — transformar ideias em realidade, um projeto por vez**.  
-
-<br>
 
 <p align="center">
   <img src="gifs/invincible_punch.gif" width="600"/>
@@ -61,14 +57,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoDias1902&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=FFD700" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDias1902&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Langs" height="180"/>
-</p>
-
----
 
 ## 🌍 Projetos em Destaque
 
