@@ -66,6 +66,10 @@
 - ☕ **Sistemas em Java** com operações CRUD.  
 - 🎮 **Projetos que unem lógica, emoção e propósito.**  
 
+<div>
+    <img src="https://github-readme-streak-stats-omega-gray.vercel.app?user=EduardoDias1902&theme=transparent&hide_border=true&short_numbers=true&exclude_days=Sun&stroke=0066FF&ring=FFD700&fire=FFD700&currStreakNum=0066FF&sideNums=0066FF&currStreakLabel=FFD700&sideLabels=FFD700&dates=0066FF&excludeDaysLabel=FFD700&background=00000000" alt="Streak" width="360">
+</div>
+
 <br>
 
 <p align="center">
