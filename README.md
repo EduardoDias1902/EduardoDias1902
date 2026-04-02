@@ -1,33 +1,31 @@
 <p align="center">
-  <img src="invincible-mark-comic-panel-ae9h8yr1vt60il7d.jpg" width="600"/>
+  <img src="spawn.jpg" width="600"/>
 </p>
 
-<h1 align="center">💥🦸‍♂️ Bem-vindo ao Universo do <b>EduardoDias1902</b> 🌌</h1>
+<h1 align="center">🩸🔥 Bem-vindo ao Submundo de <b>EduardoDias1902</b> 🔥🩸</h1>
 
 <p align="center">
-  <i>"Ser invencível não é nunca cair... é levantar e continuar mesmo quando tudo desaba."</i>
+  <i>"Entre luz e trevas... eu escolhi lutar."</i>
 </p>
 
 ---
 
-## 🦸 Sobre mim
+## 🕯️ Sobre mim
 
-
-- 👨‍💻 Jovem desenvolvedor em treinamento, sempre tentando **ir além dos limites humanos** com **HTML, Java e JavaScript**.  
-- 🚀 Explorador de novas fronteiras tecnológicas com **Arduino e ESP32**.  
-- 🎧 Alimentado por **Green Day, Metallica, System of a Down e Slipknot**, porque até heróis precisam de uma trilha sonora épica.  
-
+- 👨‍💻 Desenvolvedor em evolução constante, moldado no caos e na persistência.  
+- ⚔️ Transformando código em armas com **HTML, Java, JavaScript e C++**.  
+- 🔌 Manipulando o mundo físico com **Arduino e ESP32**, como um verdadeiro arquiteto da realidade.  
+- 🎧 Energia alimentada por **rock pesado** — porque criar no escuro exige intensidade.  
 
 <br>
 
 <p align="center">
-  <img src="gifs/invincible_fly.gif" width="550"/>
+  <img src="gifs/spawn_chains.gif" width="550"/>
 </p>
 
 ---
 
-## ⚙️ Skills de Programação
-
+## 🔥 Poderes (Skills)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,arduino,mysql,git,github"/>
@@ -40,66 +38,49 @@
 <br>
 
 <p align="center">
-  <img src="gifs/invincible_fight.gif" width="550"/>
+  <img src="gifs/spawn_fight.gif" width="550"/>
 </p>
 
 ---
 
-## 🎧 Força, Foco e Rock
+## ⚔️ Código é Guerra
 
-
-- 🤘 O espírito vem do **rock e da superação**.  
-- 💥 O código é minha forma de **lutar — transformar ideias em realidade, um projeto por vez**.  
+- 🩸 Cada projeto é uma batalha.  
+- 🔥 Cada erro é uma cicatriz que fortalece.  
+- ⚡ Cada solução é uma vitória arrancada do caos.  
 
 <p align="center">
-  <img src="gifs/invincible_punch.gif" width="600"/>
+  <img src="gifs/spawn_power.gif" width="600"/>
 </p>
 
 ---
 
+## 🕳️ Projetos em Destaque
 
-## 🌍 Projetos em Destaque
-
-
-- 🛰️ **IoT e Automação** com ESP32 e Arduino — porque até heróis precisam de tecnologia.  
-- 💻 **Desenvolvimento Web** com HTML, CSS e JavaScript.  
-- ☕ **Sistemas em Java** com operações CRUD.  
-- 🎮 **Projetos que unem lógica, emoção e propósito.**  
+- 🛰️ **IoT & Automação** — controle absoluto com ESP32 e Arduino  
+- 💻 **Desenvolvimento Web** — construindo portais entre ideias e realidade  
+- ☕ **Sistemas Java (CRUD)** — lógica afiada como lâmina  
+- 🎮 **Projetos autorais** — onde código encontra identidade  
 
 <div>
-    <img src="https://github-readme-streak-stats-omega-gray.vercel.app?user=EduardoDias1902&theme=transparent&hide_border=true&short_numbers=true&exclude_days=Sun&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=4DA3FF&sideNums=4DA3FF&currStreakLabel=FFD700&sideLabels=FFD700&dates=4DA3FF&excludeDaysLabel=FFD700&background=0D1B2A" alt="Streak" width="360">
+    <img src="https://github-readme-streak-stats-omega-gray.vercel.app?user=EduardoDias1902&theme=transparent&hide_border=true&short_numbers=true&exclude_days=Sun&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B0000&sideLabels=8B0000&dates=AAAAAA&excludeDaysLabel=8B0000&background=0D0D0D" alt="Streak" width="360">
 </div>
-
 
 <br>
 
 <p align="center">
-  <img src="gifs/invincible_city.gif" width="600"/>
+  <img src="gifs/spawn_city_dark.gif" width="600"/>
 </p>
 
 ---
 
-## 🪐 Onde me encontrar?
-
+## 🕸️ Contato
 
 <p align="center">
   <a href="https://github.com/EduardoDias1902">
-    <img src="https://img.shields.io/badge/GitHub-EduardoDias1902-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-EduardoDias1902-000000?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:eduardo_d_maia@estudante.sesisenai.org.br">
-    <img src="https://img.shields.io/badge/Email-eduardo_d_maia@estudante.sesisenai.org.br-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-## 🩸 Frase Final
-
-
-<p align="center">
-  <img src="gifs/invincible_blood.gif" width="350"/>
-</p>
-
-<p align="center">
-  <b>“Você tem que decidir que tipo de herói quer ser.” 💥</b>
 </p>
