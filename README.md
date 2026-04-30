@@ -35,6 +35,10 @@
   <img src="https://skillicons.dev/icons?i=python,windows,cpp,figma,vscode,linux,eclipse,docker"/>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=next,react,discord,idea,nodejs,ubuntu"/>
+</p>
+
 <br>
 
 <p align="center">
