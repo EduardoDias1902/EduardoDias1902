@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="spawn.jpg" width="600"/>
+  <img src="dmc.jpg" width="600"/>
 </p>
 
 <h1 align="center">🩸🔥 Bem-vindo ao Submundo de <b>EduardoDias1902</b> 🔥🩸</h1>
