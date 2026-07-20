@@ -53,10 +53,6 @@
 - 🔥 Cada erro é uma cicatriz que fortalece.  
 - ⚡ Cada solução é uma vitória arrancada do caos.  
 
-<p align="center">
-  <img src="gifs/spawn_power.gif" width="600"/>
-</p>
-
 ---
 
 ## 🕳️ Projetos em Destaque
